@@ -11,7 +11,7 @@ Most of the tutorials, example projects, and resources I've found out there are 
 - **[SwiftUI for Mac on Big Sur](https://troz.net/post/2020/swiftui_mac_big_sur/)** An update of the above tutorial for Big Sur
 - **[Designcode | Build a SwiftUI App](https://designcode.io/swiftui2)** Build a multiplatform app for iOS and Big Sur
 - **[Sidebar and NavigationView on macOS in SwiftUI](https://medium.com/better-programming/sidebar-and-navigationview-on-macos-in-swiftui-a8b4a074a651)** In an universal iOS/iPadOS/macOS target
-- **[Building Expense Tracker iOS and macOS App](https://www.alfianlosari.com/posts/building-expense-tracker-ios-macos-app-with-coredata-cloudkit-syncing/)
+- **[Building Expense Tracker iOS and macOS App](https://www.alfianlosari.com/posts/building-expense-tracker-ios-macos-app-with-coredata-cloudkit-syncing/)** Build an expense tracker SwiftUI app for iOS and macOS that integrates CloudKit Core Data sync
 
 ## :octocat: Projects
 
