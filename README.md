@@ -18,6 +18,7 @@ Most of the tutorials, example projects, and resources I've found out there are 
 - **[ControlRoom](https://github.com/twostraws/ControlRoom)** A macOS app to control the Xcode Simulator
 - **[Zeitgeist](https://github.com/daneden/zeitgeist)** A tiny Mac app for keeping an eye on your Vercel deployments
 - **[Ambar](https://github.com/AnaghSharma/Ambar-SwiftUI)** Ambar is a macOS Menu Bar app built with SwiftUI
+- **[OAuth2App](https://github.com/p2/OAuth2App)** Simple Mac app to demonstrate usage of the OAuth2 Swift framework
 - **[Netrek-SwiftUI](https://github.com/darrellroot/Netrek-SwiftUI)** This project is a Netrek client reimplementation using Swift for MacOS
 - **[Etherdump](https://github.com/darrellroot/Etherdump)** A GUI tool for capturing and analyzing network packets
 - **[github.com/jordansinger](https://github.com/jordansinger?tab=repositories)** A *ton* of macOS SwiftUI projects including a bunch of recreations of popular UIs
